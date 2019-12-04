@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--this is a config of paper.-->
+<!-- marginButtom 的单位为像素 -->
+<!-- marginTop 的单位为行 -->
+<!-- 一套试卷的文件夹名对应一个category -->
+<paperlist type="math">
+    <paper category="biaozhundashijuan">
+        <marginButtom>200</marginButtom>
+        <marginTop>0</marginTop>
+    </paper>
+    <paper category="jiangsumijuan">
+        <marginButtom>200</marginButtom>
+        <marginTop>1</marginTop>
+    </paper>
+    <paper category="liangdiangeili">
+        <marginButtom>150</marginButtom>
+        <marginTop>0</marginTop>
+    </paper>
+</paperlist>
